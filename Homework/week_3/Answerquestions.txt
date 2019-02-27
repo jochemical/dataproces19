@@ -1,0 +1,13 @@
+Explain the difference between the == operator and the === operator.:
+Both '==' and '===' are used to compare two values, and test if there equal or not. However, if two different types are evaluated '==' execute a type conversion to ensure the values are of the same type. After this conversion the values are tested if they are equal or not. If '===' is used, a conversion of type will not take place. So if the types are different, the comparison will give 'false' anyway.
+
+Explain what a closure is. (Note that JavaScript programs use closures very often):
+Closures can convert global variables to local variables. A closure is made by a function containing one or more variables, which can be adjusted by calling that function. So the variable is reachable by using a (global) function, although the variable itself is a local variable within the function.
+
+Explain what higher order functions are.
+This is a special ability of Javascript. Higher order functions can deliver other functions as their outcome. or take in other functions as arguments.
+
+Explain what a query selector is and give an example line of JavaScript that uses a query selector.
+With the function querySelector() one can search for a selector through a file, as it return the first element in that file that equals the selector. A selector can be formulated in different ways. One example:
+var el = document.querySelector(".myclass");
+Source: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
