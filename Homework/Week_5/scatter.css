@@ -1,0 +1,44 @@
+/* css-file */
+/* Scatterplot */
+/* Naam: Jochem Kemp */
+/* Studentnummer: 6128203 */
+
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  font-family: "Courier new";
+  font-weight: bold;
+  text-align: center;
+}
+p {
+  color: red;
+}
+p1 {
+  color: red;
+}
+p2 {
+  color: blue;
+}
+h2 {
+text-align: center;
+font-family: "Arial";
+}
+h3 {
+  text-align: center;
+  font-family: "Arial";
+}
+button {
+  border: none;
+  color: white;
+  font-family: "Lucida Console";
+  background-color: #555555; /* Green */
+  /* display: inline-block; */
+  font-size: 18px;
+  padding: 12px 30px;
+  text-align: center;
+}
+svg{
+  font-family: "Lucida Console";
+}
