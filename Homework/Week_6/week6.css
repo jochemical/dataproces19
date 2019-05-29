@@ -1,0 +1,48 @@
+/* css-file */
+/* Linked View */
+/* Naam: Jochem Kemp */
+/* Studentnummer: 6128203 */
+
+body {
+  /* background-color: lightgrey; */
+  background-color: Khaki;
+}
+
+h1 {
+  color: black;
+  font-family: "Arial";
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  color: red;
+}
+
+p2 {
+  color: blue;
+  font-family: "Arial";
+}
+
+p4 {
+  color: black;
+  font-family: "Arial";
+}
+
+h2 {
+  text-align: center;
+  font-family: "Arial";
+}
+
+h3 {
+  text-align: center;
+  font-family: "Arial";
+}
+
+svg{
+  font-family: "Courier new";
+}
+
+div{
+  font-family: "Courier new";
+}
