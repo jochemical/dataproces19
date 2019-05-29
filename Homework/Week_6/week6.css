@@ -20,11 +20,14 @@ p {
 }
 
 p2 {
+  left: 150px;
   color: blue;
   font-family: "Arial";
+
 }
 
 p4 {
+  left: 150px;
   color: black;
   font-family: "Arial";
 }

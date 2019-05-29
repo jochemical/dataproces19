@@ -69,7 +69,7 @@ function piechart(data_,c) {
     .data(fixed_angles)
     .enter()
     .append('path')
-      .attr("stroke", "black")
+      .attr("stroke", "white")
       .style("stroke-width", "1px")
       .style("opacity", 0.8)
       .attr('d', arc)
@@ -253,6 +253,9 @@ function scatterplot(DL_xyc){
 
         // on click function
         .on("click", function(d){
+          //update title
+          d3.select("#title").text("Employment Rate " + d[2]);
+          // update pie chart
           d3.select("svg").remove();
           piechart(DL_xyc,d[2]);
         });
