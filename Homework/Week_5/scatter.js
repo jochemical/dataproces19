@@ -1,6 +1,5 @@
 // Javascript file - Scatterplot
-// Naam: Jochem Kemp
-// Studentnummer: 6128203
+
 
 var mem_data = [];
 var bol_data = 1;
