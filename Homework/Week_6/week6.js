@@ -1,6 +1,5 @@
 // Javascript file - Linked view
-// Naam: Jochem Kemp
-// Studentnummer: 6128203
+
 
 
 // Executed as soon as page is html is loaded:
