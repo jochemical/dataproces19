@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Name: Jochem Kemp
-# Student number: 6128203
+
 """
 This script scrapes IMDB and outputs a CSV file with highest rated movies.
 """
