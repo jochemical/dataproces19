@@ -1,5 +1,4 @@
-# Name: Jochem Kemp
-# Student number: 6128203
+
 """
 This pythoncode converts a txt-file to a JSON-file.
 """
