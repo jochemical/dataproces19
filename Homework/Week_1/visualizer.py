@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Name: Jochem Kemp
-# Student number: 6128203
+
 """
 This script visualizes data obtained from a .csv file
 """
